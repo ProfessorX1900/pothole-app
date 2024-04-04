@@ -1,7 +1,7 @@
-# Welcome to streamlit
+# Welcome to the pothole app
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+To run this app, clone this repo and run 
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+'pip install -r requirments' 
+'streamlit run app.py'
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
